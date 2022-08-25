@@ -1,2 +1,2 @@
 # tedToy
-blog
+포트폴리오 용
